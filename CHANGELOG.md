@@ -1,3 +1,10 @@
+## 1.0.0 (2025-11-26)
+
+
+### 🚀 Features
+
+* update repo ([febd801](https://github.com/truongtv22/claudekit-engineer/commit/febd801081408f5bcfa8312c9aaaca635e252085))
+
 ## [1.14.8](https://github.com/claudekit/claudekit-engineer/compare/v1.14.7...v1.14.8) (2025-11-17)
 
 
