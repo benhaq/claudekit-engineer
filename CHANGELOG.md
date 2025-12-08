@@ -1,3 +1,16 @@
+## 1.0.0 (2025-12-08)
+
+
+### 🚀 Features
+
+* update repo ([febd801](https://github.com/benhaq/claudekit-engineer/commit/febd801081408f5bcfa8312c9aaaca635e252085))
+
+
+### 🐞 Bug Fixes
+
+* disable send release to discord ([4e42477](https://github.com/benhaq/claudekit-engineer/commit/4e42477c8b99e4c2aecf42113162a782307c58c2))
+* update repository URLs to benhaq ([ccfe351](https://github.com/benhaq/claudekit-engineer/commit/ccfe351ca2040395e19ea4b8effdb97e3d94b3ef))
+
 ## [1.0.1](https://github.com/truongtv22/claudekit-engineer/compare/v1.0.0...v1.0.1) (2025-11-26)
 
 
