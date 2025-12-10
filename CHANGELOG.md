@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/benhaq/claudekit-engineer/compare/v1.0.0...v1.0.1) (2025-12-10)
+
+
+### 🐞 Bug Fixes
+
+* remove discord notification in ci ([025ef4f](https://github.com/benhaq/claudekit-engineer/commit/025ef4f9f9c0b005e853e54684d8b074d414af11))
+
 ## [1.19.0](https://github.com/claudekit/claudekit-engineer/compare/v1.18.0...v1.19.0) (2025-12-05)
 
 
