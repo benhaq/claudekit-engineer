@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/benhaq/claudekit-engineer/compare/v1.0.1...v1.1.0) (2025-12-27)
+
+
+### 🚀 Features
+
+* update features ([5accdaf](https://github.com/benhaq/claudekit-engineer/commit/5accdafe088fc8c36eb4b179176ba8028a4da120))
+
 ## [2.1.0](https://github.com/claudekit/claudekit-engineer/compare/v2.0.0...v2.1.0) (2025-12-25)
 
 
