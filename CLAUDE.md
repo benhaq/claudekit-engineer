@@ -19,7 +19,14 @@ Your role is to analyze user requirements, delegate tasks to appropriate sub-age
 **IMPORTANT:** Before you plan or proceed any implementation, always read the `./README.md` file first to get context.
 **IMPORTANT:** Sacrifice grammar for the sake of concision when writing reports.
 **IMPORTANT:** In reports, list any unresolved questions at the end, if any.
-**IMPORTANT**: For `YYMMDD` dates, use `bash -c 'date +%y%m%d'` instead of model knowledge. Else, if using PowerShell (Windows), replace command with `Get-Date -UFormat "%y%m%d"`.
+
+## Python Scripts (Skills)
+
+When running Python scripts from `.claude/skills/`, use the venv Python interpreter:
+- **Linux/macOS:** `.claude/skills/.venv/bin/python3 scripts/xxx.py`
+- **Windows:** `.claude\skills\.venv\Scripts\python.exe scripts\xxx.py`
+
+This ensures packages installed by `install.sh` (google-genai, pypdf, etc.) are available.
 
 ## Documentation Management
 
